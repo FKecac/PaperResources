@@ -1,0 +1,213 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q1 Single choice,Q1 Single choice_3_TEXT,Q2 Single choice,Q3,Q3_5_TEXT,Q4 Scale question_NPS_GROUP,Q4 Scale question,Q5,Q6 Scale question_NPS_GROUP,Q6 Scale question,Q7 Scale question,Q8_NPS_GROUP,Q8,Q9_NPS_GROUP,Q9,Q10_NPS_GROUP,Q10,Q11_NPS_GROUP,Q11,Q12,Q40,Q40_4_TEXT,Q44,Q44_4_TEXT,Q45,Q45_4_TEXT,Q46,Q46_4_TEXT,Q12 - Parent Topics,Q12 - Topics,Q_AmbiguousTextPresent,Q_AmbiguousTextQuestions,Q_UnansweredPercentage,Q_UnansweredQuestions,Q12 - Topic Hierarchy Level 1,Q12 - Topic Hierarchy Level 2
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,What program are you attending? - Selected Choice,What program are you attending? - Other - Text,Where were you born?,What is your gender? - Selected Choice,What is your gender? - Other - Text,How familiar are you with renewable energy initiatives? - Group,How familiar are you with renewable energy initiatives?,"Have you taken any courses in finance, investing, or related subjects?","How would you rate your overall understanding of financial concepts such as risk, return, and investment strategies? - Group","How would you rate your overall understanding of financial concepts such as risk, return, and investment strategies?","Have you ever made a non-trivial financial investment, such as in stocks, bonds, real estate, or a business venture?","Please indicate your level of agreement.
+
+Investing in renewable energy in developing countries is typically riskier than investing in developed countries. - Group","Please indicate your level of agreement.
+
+Investing in renewable energy in developing countries is typically riskier than investing in developed countries.","Please indicate your level of agreement.
+
+I would require a higher-than-average return to invest in a renewable energy project in a developing country. - Group","Please indicate your level of agreement.
+
+I would require a higher-than-average return to invest in a renewable energy project in a developing country.","Please indicate your level of agreement.
+
+Unstable regulatory environments significantly deter my willingness to invest. - Group","Please indicate your level of agreement.
+
+Unstable regulatory environments significantly deter my willingness to invest.","Please indicate your level of agreement.
+
+I’m willing to accept lower returns if the investment yields substantial environmental or social benefits. - Group","Please indicate your level of agreement.
+
+I’m willing to accept lower returns if the investment yields substantial environmental or social benefits.","In your opinion, what is the biggest challenge that discourages investment in renewable energy projects in developing countries?","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project A (Coal)
+			Project B (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Selected Choice","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project A (Coal)
+			Project B (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Neither - Text","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project C (Coal)
+			Project D (Solar)
+		
+		
+			20% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Selected Choice","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project C (Coal)
+			Project D (Solar)
+		
+		
+			20% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Neither - Text","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project E (Coal)
+			Project F (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			20% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Selected Choice","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project E (Coal)
+			Project F (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			20% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Kenya
+		
+	
+
+
+
+Which would you choose? - Neither - Text","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project G (Coal)
+			Project H (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Germany
+		
+	
+
+
+
+Which would you choose? - Selected Choice","Imagine you have the opportunity to invest in one of two projects:
+
+ 
+
+	
+		
+			Project G (Coal)
+			Project H (Solar)
+		
+		
+			15% annual return, higher carbon emissions.
+			15% annual return, environmentally friendly.
+		
+		
+			In Kenya
+			In Germany
+		
+	
+
+
+
+Which would you choose? - Neither - Text",Q12 - Parent Topics,Q12 - Topics,Q_AmbiguousTextPresent,Q_AmbiguousTextQuestions,Q_UnansweredPercentage,Q_UnansweredQuestions,Q12 - Topic Hierarchy Level 1,Q12 - Topic Hierarchy Level 2
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID20""}","{""ImportId"":""QID20_3_TEXT""}","{""ImportId"":""QID21""}","{""ImportId"":""QID27""}","{""ImportId"":""QID27_5_TEXT""}","{""ImportId"":""QID22_NPS_GROUP""}","{""ImportId"":""QID22""}","{""ImportId"":""QID29""}","{""ImportId"":""QID24_NPS_GROUP""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID32_NPS_GROUP""}","{""ImportId"":""QID32""}","{""ImportId"":""QID34_NPS_GROUP""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35_NPS_GROUP""}","{""ImportId"":""QID35""}","{""ImportId"":""QID43_NPS_GROUP""}","{""ImportId"":""QID43""}","{""ImportId"":""QID42_TEXT""}","{""ImportId"":""QID44""}","{""ImportId"":""QID44_4_TEXT""}","{""ImportId"":""QID48""}","{""ImportId"":""QID48_4_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID49_4_TEXT""}","{""ImportId"":""QID50""}","{""ImportId"":""QID50_4_TEXT""}","{""ImportId"":""QID42_TEXT_415aa7c1_2e89jc77zrl9ParTopics""}","{""ImportId"":""QID42_TEXT_415aa7c1_2e89jc77zrl9Topics""}","{""ImportId"":""Q_AmbiguousTextPresent""}","{""ImportId"":""Q_AmbiguousTextQuestions""}","{""ImportId"":""Q_UnansweredPercentage""}","{""ImportId"":""Q_UnansweredQuestions""}","{""ImportId"":""QID42_TEXT_415aa7c1_2e89jc77zrl9TopicHierarchy1""}","{""ImportId"":""QID42_TEXT_415aa7c1_2e89jc77zrl9TopicHierarchy2""}"
+2025-03-11 18:27:02,2025-03-11 18:31:33,IP Address,xxx.xxx.xx.xx,100,271,True,2025-03-11 18:31:34,R_2Q5dJMG9GzD7355,,,,,52.2122,6.9,anonymous,EN,1,IEM,,EU/EAA,Female,,Detractor,6,No,Detractor,4,No,Passive,8,Passive,7,Passive,8,Passive,8,Unstable economy,Project B,,Project D,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 11:12:45,2025-03-12 11:15:11,IP Address,xxx.xxx.xx.xx,100,145,True,2025-03-12 11:15:12,R_8JB8NlUNNdP2vIJ,,,,,52.3332,6.2022,anonymous,EN,1,BIT,,EU/EAA,Female,,Passive,8,No,Detractor,1,No,Passive,8,Detractor,6,Promoter,10,Detractor,3,Political instability,Project B,,Project D,,Project F,,Project H,,Political,"Political,Political Stability",0,,0,,Political,Political Stability
+2025-03-12 11:12:38,2025-03-12 11:19:14,IP Address,xxx.xxx.xx.xx,100,396,True,2025-03-12 11:19:14,R_8Bu5zj5BwuSD0UH,,,,,52.2385,6.8706,anonymous,EN,1,IEM,,EU/EAA,Male,,Passive,7,Yes,Detractor,4,No,Detractor,2,Detractor,5,Passive,7,Passive,8,lower return rate,Project B,,Project D,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 12:08:22,2025-03-12 12:17:53,IP Address,xxx.xxx.xx.xx,100,570,True,2025-03-12 12:17:53,R_8rN1MjZPFm2nIVf,,,,,52.1928,5.4199,anonymous,EN,1,IEM,,EU/EAA,Male,,Detractor,6,Yes,Detractor,3,Yes,Passive,7,Passive,8,Promoter,10,Detractor,0,"Unstable political environments. Many countries' governments are unstable and often unwilling to switch to renewable energy sources. Countries with high potential for renewable energy projects I have in mind are mostly in Sub-Saharan Africa, since they have lots of sun. Many of those countries have too many political or security burdens, like Nigeria, African Coup Belt, etc. but there are also exceptions like Ivory Coast, Botswana, etc.
+Additionally, logistics can be a major issue (transporting all the shit to that country). It would be hard to manufacture all the infrastructure in the countries directly, so it would be necessary to import it from another country.",Neither,"In this case, I believe it would be more fair to choose the project based on the amount of people it would influence positively, negatively. More context about them is needed.",Neither,"Again, more context is needed.",Neither,Higher return often means higher risk. More context is needed to understand how the projects would benefit the country.,Project G,,"Political,Economic","Legal,Political,Economic,Social,Political Stability,Environmental,RE Demand",0,,0,,"Legal,Political,Economic,Social,Environmental","Political Stability,RE Demand"
+2025-03-12 13:42:31,2025-03-12 13:46:53,IP Address,xxx.xxx.xx.xx,100,261,True,2025-03-12 13:46:53,R_2QnOQHLwQLPKS7g,,,,,52.2249,6.852,anonymous,EN,1,IEM,,EU/EAA,Male,,Detractor,2,No,Detractor,6,Yes,Passive,7,Detractor,3,Passive,8,Detractor,3,"you don't know if it is profitable
+",Project B,,Project C,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 13:56:43,2025-03-12 14:05:11,IP Address,xxx.xxx.xx.xx,100,508,True,2025-03-12 14:05:12,R_829C2Lj4obdS9DX,,,,,52.2385,6.8706,anonymous,EN,0.699999988079071,BIT,,EU/EAA,Male,,Detractor,2,Yes,Detractor,6,Yes,Promoter,9,Detractor,0,Detractor,2,Detractor,0,developing country might have an unstable government,Project B,,Project C,,Project F,,Project H,,Political,"Political,Political Stability",0,,0,,Political,Political Stability
+2025-03-12 14:03:39,2025-03-12 14:06:33,IP Address,xxx.xxx.xx.xx,100,174,True,2025-03-12 14:06:34,R_2zciPB30GgC3md2,,,,,52.2122,6.9,anonymous,EN,1,IEM,,EU/EAA,Female,,Passive,7,Yes,Passive,7,Yes,Detractor,6,Detractor,6,Detractor,6,Detractor,4,Less profit,Project B,,Project C,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 00:11:10,2025-03-12 14:19:51,IP Address,xxx.xxx.xx.xx,100,50920,True,2025-03-12 14:19:51,R_82hkPFe9IBxxGkF,,,,,52.4053,6.9029,anonymous,EN,1,BIT,,EU/EAA,Male,,Detractor,3,Yes,Passive,7,Yes,Passive,8,Passive,8,Promoter,9,Detractor,3,"The biggest challenge discouraging investment in renewable energy projects in developing countries is the extremely high financial risk. Uncertainty in political and economic stability, adds a lot of discouragement towards it.",Project B,,Project C,,Project F,,Project H,,Political,"Economic,Political,Political Stability",0,,0,,"Political,Economic",Political Stability
+2025-03-12 14:18:26,2025-03-12 14:23:19,IP Address,xxx.xxx.xx.xx,100,292,True,2025-03-12 14:23:19,R_2Uim1p6fVEFAq9e,,,,,52.2122,6.9,anonymous,EN,0.4000000059604645,IEM,,EU/EAA,Female,,Detractor,6,No,Detractor,6,No,Detractor,6,Detractor,3,Detractor,4,Detractor,2,money,Project B,,Project C,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 14:24:48,2025-03-12 14:26:21,IP Address,xxx.xxx.xx.xx,100,92,True,2025-03-12 14:26:22,R_8SxqaiDWeptPsTT,,,,,52.1928,5.4199,anonymous,EN,1,BIT,,Non-EU/EAA,Female,,Promoter,10,Yes,Passive,8,Yes,Passive,8,Detractor,6,Detractor,4,Detractor,5,money,Project B,,Project D,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 14:30:07,2025-03-12 14:34:27,IP Address,xxx.xxx.xx.xx,100,259,True,2025-03-12 14:34:28,R_2nqKu8ggHdRTjSM,,,,,52.2385,6.8706,anonymous,EN,1,BIT,,EU/EAA,Male,,Passive,7,Yes,Promoter,10,No,Passive,8,Promoter,10,Passive,7,Detractor,2,"If non renewable energy sources are cheaper, they will be used in developing countries (governments don’t care)",Both (split investment),,Project C,,Project F,,Project H,,,"Economic,Political",0,,0,,"Political,Economic",
+2025-03-12 14:38:09,2025-03-12 14:39:40,IP Address,xxx.xxx.xx.xx,100,90,True,2025-03-12 14:39:40,R_21jMWzTxg1yI6r2,,,,,52.3191,4.976,anonymous,EN,1,BIT,,Non-EU/EAA,Male,,Detractor,5,Yes,Detractor,5,No,Detractor,6,Detractor,6,Detractor,5,Detractor,5,Cost,Project B,,Project D,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-11 21:13:57,2025-03-12 14:44:00,IP Address,xxx.xxx.xx.xx,100,63002,True,2025-03-12 14:44:00,R_2su27pPWIab8lxf,,,,,44.4022,26.0624,anonymous,EN,0.8999999761581421,BIT,,EU/EAA,Female,,Detractor,5,No,Detractor,5,Prefer not to say,Detractor,6,Detractor,2,Passive,7,Passive,7,,Project B,,Project D,,Project F,,Project H,,,,0,,0.0625,QID42,,
+2025-03-12 15:24:40,2025-03-12 15:29:32,IP Address,xxx.xxx.xx.xx,100,291,True,2025-03-12 15:29:32,R_2aaVs7lRXjpMCnC,,,,,51.9441,4.3839,anonymous,EN,0.8999999761581421,BIT,,EU/EAA,Male,,Promoter,10,Yes,Promoter,10,Yes,Detractor,5,Passive,8,Passive,8,Passive,7,"It’s really the governmental structure and high risk of corruption. You see that a lot of money does not actually get put to good use. Additionally, investments in these projects often go towards western companies as well. Who have their own benefits in improving infrastructure in developing countries. ",Project B,,Project C,,Project F,,Project H,,Political,"Economic,Political,Political Stability",0,,0,,"Political,Economic",Political Stability
+2025-03-12 15:37:29,2025-03-12 15:40:48,IP Address,xxx.xxx.xx.xx,100,199,True,2025-03-12 15:40:48,R_8ydcwtu8hzYX5cW,,,,,52.0347,6.819,anonymous,EN,0.800000011920929,BIT,,EU/EAA,Male,,Passive,7,Yes,Detractor,4,No,Detractor,3,Detractor,4,Detractor,5,Detractor,6,To focussed on short term profit instead of seeing the long term benefits,Project B,,Project D,,Project F,,Project H,,,Economic,0,,0,,Economic,
+2025-03-12 18:00:17,2025-03-12 18:03:27,IP Address,xxx.xxx.xx.xx,100,190,True,2025-03-12 18:03:28,R_8rOx2vlC0kdeok7,,,,,52.2331,6.8961,anonymous,EN,1,IEM,,EU/EAA,Male,,Passive,8,Yes,Promoter,9,Yes,Detractor,3,Detractor,5,Passive,7,Detractor,5,"The biggest challenge is materials, infrastructure and services. But overall a good investment can be made as developing countries are mostly cheaper",Project B,,Project C,,Project F,,Project G,,,"Economic,Technological",0,,0,,"Economic,Technological",
+2025-03-12 20:52:24,2025-03-12 20:54:55,IP Address,xxx.xxx.xx.xx,100,150,True,2025-03-12 20:54:55,R_8vjZVxJP8R2lnTx,,,,,52.0706,4.5099,anonymous,EN,1,IEM,,EU/EAA,Male,,Detractor,5,No,Detractor,5,Yes,Detractor,6,Detractor,4,Detractor,5,Detractor,5,,Project B,,Project C,,Project F,,Both (split investment),,,,0,,0.0625,QID42,,
+2025-03-13 00:39:34,2025-03-13 00:47:10,IP Address,xxx.xxx.xx.xx,100,455,True,2025-03-13 00:47:10,R_25NUZ0mzYAZHxvj,,,,,52.0633,8.3668,anonymous,EN,1,Other,social science ,EU/EAA,Female,,Detractor,3,No,Detractor,3,No,Detractor,6,Detractor,3,Detractor,5,Promoter,10,Prejudice,Project B,,Project D,,Project F,,Project H,,,Social,0,,0,,Social,
+2025-03-15 17:53:37,2025-03-15 18:05:13,IP Address,xxx.xxx.xx.xx,100,695,True,2025-03-15 18:05:14,R_2anLCmSiv7AcGEf,,,,,52.0374,8.5281,anonymous,EN,1,Other,None,EU/EAA,Female,,Detractor,3,No,Detractor,3,Yes,Detractor,4,Detractor,6,Passive,8,Passive,8,"Often unsecure political situation.
+In general lack of knowledge about political situation.",Project B,,Project D,,Project F,,Project H,,Political,"Political,Political Stability",0,,0,,Political,Political Stability
+2025-03-11 18:22:37,2025-03-11 18:30:03,IP Address,xxx.xxx.xx.xx,76,445,False,2025-03-18 18:30:09,R_2uKpUbmsYmfCIAF,,,,,52.2385,6.8706,anonymous,EN,1,BIT,,EU/EAA,Male,,Passive,7,No,Passive,8,Yes,Passive,8,Detractor,2,Promoter,10,Passive,7,Government Stability,Project B,,,,,,,,,Unknown,0,,0,,,
+2025-03-12 14:24:55,2025-03-12 14:27:11,IP Address,xxx.xxx.xx.xx,47,136,False,2025-03-19 14:27:14,R_8HkohUsSkrLi0jW,,,,,51.9009,4.4945,anonymous,EN,1,BIT,,EU/EAA,Male,,Detractor,5,No,Detractor,2,No,,,,,,,,,,,,,,,,,,,,0,,0,,,
+2025-03-12 15:30:41,2025-03-12 15:31:15,IP Address,xxx.xxx.xx.xx,47,33,False,2025-03-19 14:27:35,R_8EWQntdhX88lg9b,,,,,52.364,4.8913,anonymous,EN,0.8999999761581421,BIT,,EU/EAA,Female,,Passive,7,No,Detractor,6,No,,,,,,,,,,,,,,,,,,,,0,,0,,,
+2025-03-12 15:04:29,2025-03-12 15:05:41,IP Address,xxx.xxx.xx.xx,47,72,False,2025-03-19 14:27:36,R_2otw473Lm06FNzX,,,,,52.2385,6.8706,anonymous,EN,1,BIT,,Non-EU/EAA,Male,,Detractor,6,No,Detractor,0,No,Detractor,1,,,,,,,,,,,,,,,,,,0,,0,,,
